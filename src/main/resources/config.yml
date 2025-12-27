@@ -1,0 +1,130 @@
+# Author: Angel
+
+# - Messages -
+no-perms: "&cNo Permission."
+illegal-nick: "&cIllegal Nickname."
+taken-nick: "&cNickname is already taken."
+set-nick: "&aNick has been set to &r%nick%"
+removed-nick: "&aNick has been reset."
+wrong-syntax: "&cWrong Syntax! %syntax%"
+type-nick: "&aPlease enter your custom nickname:"
+
+# - Menu Titles -
+list-title: "List Menu #%number%"
+nicks-title: "&6Nicknames Menu"
+
+# - Menu Buttons -
+reset:
+  name: "&cReset Nickname"
+  custom-data: 0
+  lore:
+    - "&7Remove nickname"
+    - "&7For nothing special"
+exit:
+  name: "&cExit"
+  custom-data: 0
+  command: "say hi"
+  lore:
+    - "&7Click to close the menu."
+    - "&6&lClick for free Vbucks"
+info:
+  name: "&aCurrent Nickname: &r%player%"
+  custom-data: 0
+  lore:
+    - "&7Info fo fo fo"
+    - "&6 Just nahman for now"
+custom:
+  name: "&eEMERALD"
+  custom-data: 0
+  lore:
+    - "&7Custom nickname"
+    - "&6 Just nahman for now"
+list:
+  name: "&6GOLD"
+  custom-data: 0
+  lore:
+    - "&7Choose from list"
+    - "&6 Just nahman for now"
+random:
+  name: "&3SILVER"
+  custom-data: 0
+  lore:
+    - "&7Random from list"
+    - "&6 Just nahman for now"
+back:
+  name: "&dBack"
+  custom-data: 0
+  lore:
+    - "&7Previous Page"
+next:
+  name: "&dNext"
+  custom-data: 0
+  lore:
+    - "&7Next Page"
+choose:
+  name: "&cChoose: &r%nick%"
+  custom-data: 0
+  lore:
+    - "&7Extra special nick"
+
+# - List Of Nicks -
+
+nick-list:
+  - "&eצצו"
+  - "&5Nahman"
+  - "&8משולם"
+  - "&5Nahman1"
+  - "&5Nahman2"
+  - "&5Nahman3"
+  - "&5Nahman4"
+  - "&5Nahman5"
+  - "&5Nahman6"
+  - "&5Nahman7"
+  - "&5Nahman8"
+  - "&5Nahman9"
+  - "&5Nahman10"
+  - "&5Nahman11"
+  - "&5Nahman12"
+  - "&5Nahman13"
+  - "&5Nahman14"
+  - "&5Nahman15"
+  - "&5Nahman16"
+  - "&5Nahman17"
+  - "&5Nahman18"
+  - "&5Nahman19"
+  - "&5Nahman20"
+  - "&5Nahman21"
+  - "&5Nahman22"
+  - "&5Nahman23"
+  - "&5Nahman24"
+  - "&5Nahman25"
+  - "&5Nahman26"
+  - "&5Nahman27"
+  - "&5Nahman28"
+  - "&5Nahman29"
+  - "&5Nahman30"
+  - "&5Nahman31"
+  - "&5Nahman32"
+  - "&5Nahman33"
+  - "&5Nahman34"
+  - "&5Nahman35"
+  - "&5Nahman36"
+
+# - Forbidden Strings -
+forb:
+  - "-"
+  - "זונה"
+  - "דוד"
+
+# - Database -
+url: "url"
+user: "user"
+password: "password"
+
+# - Permissions -
+# nicks.command.customnick
+# nicks.command.nickcolorized
+# nicks.command.realname
+# nicks.command.resetother
+# nicks.command.fromlist
+# nicks.command.randomnick

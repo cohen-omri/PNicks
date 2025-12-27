@@ -1,0 +1,11 @@
+name: PNicks
+version: '${project.version}'
+main: co.il.example.pnicks.PNicks
+api-version: '1.18'
+authors: [Angel]
+softdepend: [PlaceholderAPI]
+
+commands:
+  nick:
+  realname:
+  nickreset:
